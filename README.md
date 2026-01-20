@@ -1,2 +1,2 @@
 # Integracion-de-prospectiva-y-datos
-Trabajos realizados en la asignatura de integración de datos y prospectiva, que se trata de analisis de riesgos.
+En este repositorio se emplearan técnicas de analítica de datos como los principios de lógica borrosa modelando variables aleatorias como variables linguísticas, integrando información cualitativa proveniente de expertos para la toma de decisiones de las organizaciones en contextos bajo inceridumbre.
